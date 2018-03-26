@@ -1,0 +1,1 @@
+java -jar selenium-server_standalone-2.47.0.jar -role hub
